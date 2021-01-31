@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/food-policy/static/css/main.4234708e.chunk.css",
-    "main.js": "/food-policy/static/js/main.6b3add1a.chunk.js",
-    "main.js.map": "/food-policy/static/js/main.6b3add1a.chunk.js.map",
+    "main.css": "/food-policy/static/css/main.70e4153e.chunk.css",
+    "main.js": "/food-policy/static/js/main.6934c49f.chunk.js",
+    "main.js.map": "/food-policy/static/js/main.6934c49f.chunk.js.map",
     "runtime-main.js": "/food-policy/static/js/runtime-main.1dc617c2.js",
     "runtime-main.js.map": "/food-policy/static/js/runtime-main.1dc617c2.js.map",
     "static/js/2.13edd176.chunk.js": "/food-policy/static/js/2.13edd176.chunk.js",
     "static/js/2.13edd176.chunk.js.map": "/food-policy/static/js/2.13edd176.chunk.js.map",
     "index.html": "/food-policy/index.html",
-    "static/css/main.4234708e.chunk.css.map": "/food-policy/static/css/main.4234708e.chunk.css.map",
+    "static/css/main.70e4153e.chunk.css.map": "/food-policy/static/css/main.70e4153e.chunk.css.map",
     "static/js/2.13edd176.chunk.js.LICENSE.txt": "/food-policy/static/js/2.13edd176.chunk.js.LICENSE.txt",
     "static/media/avatar.29e7de38.jpg": "/food-policy/static/media/avatar.29e7de38.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1dc617c2.js",
     "static/js/2.13edd176.chunk.js",
-    "static/css/main.4234708e.chunk.css",
-    "static/js/main.6b3add1a.chunk.js"
+    "static/css/main.70e4153e.chunk.css",
+    "static/js/main.6934c49f.chunk.js"
   ]
 }
