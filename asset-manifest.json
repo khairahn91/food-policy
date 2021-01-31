@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food-policy/static/css/main.5f974515.chunk.css",
+    "main.js": "/food-policy/static/js/main.8d554f5d.chunk.js",
+    "main.js.map": "/food-policy/static/js/main.8d554f5d.chunk.js.map",
+    "runtime-main.js": "/food-policy/static/js/runtime-main.1dc617c2.js",
+    "runtime-main.js.map": "/food-policy/static/js/runtime-main.1dc617c2.js.map",
+    "static/js/2.13edd176.chunk.js": "/food-policy/static/js/2.13edd176.chunk.js",
+    "static/js/2.13edd176.chunk.js.map": "/food-policy/static/js/2.13edd176.chunk.js.map",
+    "index.html": "/food-policy/index.html",
+    "static/css/main.5f974515.chunk.css.map": "/food-policy/static/css/main.5f974515.chunk.css.map",
+    "static/js/2.13edd176.chunk.js.LICENSE.txt": "/food-policy/static/js/2.13edd176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc617c2.js",
+    "static/js/2.13edd176.chunk.js",
+    "static/css/main.5f974515.chunk.css",
+    "static/js/main.8d554f5d.chunk.js"
+  ]
+}
